@@ -7,7 +7,7 @@
   <h1 align="center">Word Scrambler</h1>
 
   <p align="center">
-    <strong>By: Your Name Here</strong><br>
+    <strong>By: Ryan Hatch</strong><br>
   </p>
 
   <p align="center">
@@ -21,7 +21,7 @@
   *****************************************************
 
   <p align="center">
-       &copy; [Year] [Your Name Here]<br>
+       &copy; [2023] [ryanshatch]<br>
        All Rights Reserved.
   </p>
 
@@ -74,5 +74,22 @@
   <p>
     Using very high perplexity and burstiness values may result in extremely convoluted and hard-to-understand text. Carefully select the values to generate human-like yet coherent output.
   </p>
+
+## License
+
+This software is the property of the copyright holder and is protected by copyright laws. All rights are reserved.
+
+The copyright holder grants no implied or express license for the use, copying, modification, distribution, or reproduction of this software, in whole or in part, without the prior written permission of the copyright holder.
+
+Any unauthorized use, copying, modification, distribution, or reproduction of this software, in whole or in part, is strictly prohibited and constitutes a violation of copyright law. Such unauthorized use may result in civil and/or criminal penalties, including but not limited to legal action and monetary damages.
+
+To obtain permission for any use, copying, modification, distribution, or reproduction of this software, please contact the copyright holder at the following address:
+
+```zenksilva@gmail.com```
+<br>
+<br>
+<br>
+```By using this software, you acknowledge that you have read and understood the terms of this license and agree to comply with all applicable copyright laws. Failure to abide by the terms of this license may subject you to legal consequences.```
+
 </body>
 </html>
