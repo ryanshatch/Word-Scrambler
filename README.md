@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Word Scrambler</title>
 </head>
 <body>
   <h1 align="center">Word Scrambler</h1>
@@ -56,7 +55,7 @@
     Enter the text you want to scramble: The Evaluation section evaluates different operating platforms and their suitability for the requirements of the gaming application.
     Enter the perplexity: 50
     Enter the burstiness: 50
-    The scrambled text is: cbcbaaaaabaaaaa acaaaaaaaaaaaa aabcaacaaaa aacabaaaaaaaa aacaaaaaaaaaa aaaaaaaaaaaaaaa.
+    The scrambled text is: It aitn that bad. Could always be worse. Im running outta gas. maybe Id lay down for a little. Instead of always trying to figure everything out. And all I do is say sorry. Half the time I dont even know what Im singing about. Good news, good news, good news, thats all I wanna hear. No they dont like it when Im down..
   </code></pre>
 
   <h2 id="customization">Customization</h2>
@@ -73,19 +72,19 @@
 
   <p>
     Using very high perplexity and burstiness values may result in extremely convoluted and hard-to-understand text. Carefully select the values to generate human-like yet coherent output.
-  </p>
+  </p><br><br>
 
-## License
+### License:
 
 This software is the property of the copyright holder and is protected by copyright laws. All rights are reserved.
 
-The copyright holder grants no implied or express license for the use, copying, modification, distribution, or reproduction of this software, in whole or in part, without the prior written permission of the copyright holder.
+<code>The copyright holder grants no implied or express license for the use, copying, modification, distribution, or reproduction of this software, in whole or in part, without the prior written permission of the copyright holder.</code>
 
-Any unauthorized use, copying, modification, distribution, or reproduction of this software, in whole or in part, is strictly prohibited and constitutes a violation of copyright law. Such unauthorized use may result in civil and/or criminal penalties, including but not limited to legal action and monetary damages.
+<code>Any unauthorized use, copying, modification, distribution, or reproduction of this software, in whole or in part, is strictly prohibited and constitutes a violation of copyright law. Such unauthorized use may result in civil and/or criminal penalties, including but not limited to legal action and monetary damages.</code>
 
 To obtain permission for any use, copying, modification, distribution, or reproduction of this software, please contact the copyright holder at the following address:
 
-```zenksilva@gmail.com```
+```ryanshatch@gmail.com```
 <br>
 <br>
 <br>
