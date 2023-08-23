@@ -20,14 +20,14 @@
   *****************************************************
 
   <p align="center">
-       &copy; [2023] [ryanshatch]<br>
+       &copy; 2023 [ryan s hatch]<br>
        All Rights Reserved.
   </p>
 
   <h2 id="introduction">Introduction</h2>
 
   <p>
-    The Word Scrambler is a Python program that allows you to rewrite user-provided text with the most human-like perplexity and burstiness. Perplexity and burstiness are measures of how complex and variable the rewritten text will be. The goal is to generate text that closely resembles natural human writing while allowing for some level of variability and complexity.
+    The Word Scrambler is a Python program that allows you to rewrite user-provided text with perplexity and burstiness. Perplexity and burstiness are measures of how complex and variable the rewritten text will be. The goal is to generate text that closely resembles obfuscated writing while allowing for some level of variability and complexity.
   </p>
 
   <h2 id="how-to-use">How to Use</h2>
